@@ -11,6 +11,487 @@
 /*# sourceMappingURL=styles.f3bd549d4bc03f17.css.map*/
 
 
+
+
+
+element.style {
+    visibility: hidden;
+    position: fixed;
+}
+
+
+.fa {
+    font-family: var(--fa-style-family, "Font Awesome 6 Free");
+    font-weight: var(--fa-style, 900);
+}
+
+
+
+.fa {
+    font-family: var(--fa-style-family, "Font Awesome 6 Free");
+    font-weight: var(--fa-style, 900);
+}
+
+
+
+body {
+    color: #163951;
+}
+
+body {
+    color: #4a4a4a;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+body {
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+:root {
+    --fa-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+
+:root {
+    --fa-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+
+:root {
+    --fa-style-family-brands: "Font Awesome 6 Brands";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+html {
+    background-color: #fff;
+    font-size: 16px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    min-width: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+
+.fa:before {
+    content: var(--fa);
+}
+
+
+
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+[_nghost-ng-c3900241356] {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
+.top-nav[_ngcontent-ng-c3710021226] {
+    z-index: -1;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+.top-nav[_ngcontent-ng-c3710021226] {
+    background-color: #f1f1f1;
+}
+
+
+.top-nav[_ngcontent-ng-c3710021226]   a[_ngcontent-ng-c3710021226] {
+    color: #939393;
+    font-family: Source Sans Pro,sans-serif;
+    font-size: .8rem;
+    font-display: swap;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+
+.languages-container[_ngcontent-ng-c3710021226] {
+    display: flex;
+}
+
+.top-nav[_ngcontent-ng-c3710021226]   a.locale.active[_ngcontent-ng-c3710021226] {
+    background-color: #fff!important;
+}
+
+
+.top-nav[_ngcontent-ng-c3710021226]   a.locale[_ngcontent-ng-c3710021226] {
+    margin: 5px 0 5px 3px;
+}
+
+
+.top-nav[_ngcontent-ng-c3710021226]   a[_ngcontent-ng-c3710021226] {
+    color: #939393;
+    font-family: Source Sans Pro,sans-serif;
+    font-size: .8rem;
+    font-display: swap;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+
+.top-nav[_ngcontent-ng-c3710021226]   a.locale[_ngcontent-ng-c3710021226] {
+    margin: 5px 0 5px 3px;
+}
+
+.top-nav[_ngcontent-ng-c3710021226]   a[_ngcontent-ng-c3710021226] {
+    color: #939393;
+    font-family: Source Sans Pro,sans-serif;
+    font-size: .8rem;
+    font-display: swap;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+.nav-wrapper[_ngcontent-ng-c920485985] {
+    border-bottom: 1px solid rgba(0,207,255,.25);
+}
+
+
+
+.main-nav[_ngcontent-ng-c920485985]   .navbar-brand.has-border[_ngcontent-ng-c920485985] {
+    border-bottom: 1px solid #b3f0fd;
+}
+
+
+.main-nav[_ngcontent-ng-c920485985]   .navbar-brand.is-fixed-top[_ngcontent-ng-c920485985] {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    background-color: #fff;
+}
+
+.main-nav[_ngcontent-ng-c920485985]   .navbar-brand[_ngcontent-ng-c920485985] {
+    padding-left: 1rem;
+}
+
+
+.brand-logo[_ngcontent-ng-c920485985] {
+    width: 150px;
+}
+
+.brand-logo[_ngcontent-ng-c920485985] {
+    background: url(coinmotion-logo-small.680573403e60403d.png) no-repeat center center;
+    background-size: contain;
+    width: 200px;
+    cursor: pointer;
+}
+
+.main-nav[_ngcontent-ng-c920485985], .button[_ngcontent-ng-c920485985], h2[_ngcontent-ng-c920485985], h3[_ngcontent-ng-c920485985], h4[_ngcontent-ng-c920485985], .stats[_ngcontent-ng-c920485985] {
+    font-family: Source Sans Pro,sans-serif;
+    font-display: swap;
+}
+
+
+.main-nav[_ngcontent-ng-c920485985]   .navbar-burger[_ngcontent-ng-c920485985]   span[_ngcontent-ng-c920485985] {
+    height: 2px;
+}
+
+
+
+.main-nav[_ngcontent-ng-c920485985]   .navbar-item[_ngcontent-ng-c920485985] {
+    color: #009ac0;
+}
+
+
+.language-bar[_ngcontent-ng-c920485985] {
+    position: relative;
+    right: 40px;
+}
+
+
+.locale.locale.active[_ngcontent-ng-c920485985] {
+    background-color: #fff!important;
+}
+
+
+@media screen and (max-width: 1088px) {
+    .main-nav[_ngcontent-ng-c920485985] .navbar-item[_ngcontent-ng-c920485985] {
+        color: #009ac0;
+    }
+}
+
+
+.locale.locale[_ngcontent-ng-c920485985] {
+    margin: 5px 0 5px 3px;
+}
+
+.locale[_ngcontent-ng-c920485985] {
+    color: #939393;
+    font-family: Source Sans Pro,sans-serif;
+    font-size: .9rem;
+    font-display: swap;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+@media screen and (max-width: 1088px) {
+    .main-nav[_ngcontent-ng-c920485985] .navbar-item[_ngcontent-ng-c920485985] {
+        color: #009ac0;
+    }
+}
+
+
+.locale.locale[_ngcontent-ng-c920485985] {
+    margin: 5px 0 5px 3px;
+}
+
+
+.locale[_ngcontent-ng-c920485985] {
+    color: #939393;
+    font-family: Source Sans Pro, sans-serif;
+    font-size: .9rem;
+    font-display: swap;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+
+hr[_ngcontent-ng-c920485985] {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    background-color: #03657b73;
+}
+
+.is-fixed[_ngcontent-ng-c2640628936] {
+    position: fixed;
+    top: 120px;
+    display: block;
+    z-index: 2000;
+    width: 80%;
+    left: 10%;
+}
+
+
+element.style {
+    background-color: white;
+}
+
+
+@media (max-width: 768px) {
+    .page-wrap[_ngcontent-ng-c371126991] {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+
+.sign-in-title[_ngcontent-ng-c371126991] {
+    font-family: Source Sans Pro, sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #163951;
+}
+
+
+.is-banner.is-warning[_ngcontent-ng-c371126991] {
+    background: #fff4e7;
+    border: 0;
+    padding: 10px;
+    font-size: 13px;
+    margin-bottom: 2rem;
+    display: flex
+;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.has-text-centered {
+    text-align: center !important;
+}
+
+
+.lock-alt[_ngcontent-ng-c371126991] {
+    content: url(lock.4861e9d9d983a00c.svg);
+    justify-self: center;
+}
+
+.lock-icon-wrap[_ngcontent-ng-c371126991] {
+    display: inline-block;
+    align-items: center;
+}
+
+
+.buttons-wrap[_ngcontent-ng-c1284498233] {
+    outline: 1px solid #CED8DE;
+    border-radius: 8px;
+    display: flex
+;
+    align-content: flex-end;
+    z-index: 0;
+    padding: 1px;
+    min-height: 40px;
+}
+
+.radio-button[_ngcontent-ng-c1284498233] {
+    padding: 4px 1rem;
+    flex: 1;
+    color: #667b8a;
+    font-weight: 500;
+    background-color: #fff;
+    display: flex
+;
+    justify-content: center;
+    align-items: center;
+}
+
+.is-active[_ngcontent-ng-c1284498233] {
+    outline: 2px solid #048EAD;
+    border-radius: 8px;
+    padding-top: 2px;
+    padding-left: 14px;
+    z-index: 1;
+    color: #048ead !important;
+}
+
+
+element.style {
+    display: block;
+    overflow: hidden;
+}
+
+
+.login-button[_ngcontent-ng-c169562219] {
+    width: 100%;
+    background-color: #009ac0;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 12px;
+    font-size: 16px;
+    border: none;
+}
+
+
+element.style {
+    background-color: white;
+}
+
+
+.footer[_ngcontent-ng-c865581601] {
+    background-color: #163951;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    font-family: Source Sans Pro, sans-serif;
+    font-size: 1rem;
+    font-display: swap;
+    color: #fff;
+}
+
+
+
+
+
+a[_ngcontent-ng-c865581601] {
+    color: #fff;
+}
+
+
+
+
+
+
+a[_ngcontent-ng-c865581601] {
+    color: #fff;
+}
+
+
+
+body {
+    font-family: BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
+.footer[_ngcontent-ng-c865581601] .title[_ngcontent-ng-c865581601] {
+    color: #00cfff !important;
+    font-weight: 400;
+}
+
+
+
+
+
+
+.footer[_ngcontent-ng-c865581601] .title[_ngcontent-ng-c865581601] {
+    color: #00cfff !important;
+    font-weight: 400;
+}
+
+
+.mobile-footer[_ngcontent-ng-c865581601] {
+    background-color: #163951;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    font-family: Source Sans Pro, sans-serif;
+    font-size: 1rem;
+    font-display: swap;
+    color: #fff;
+}
+
+
+
+
+a[_ngcontent-ng-c865581601] {
+    color: #fff;
+}
+
+
+.fab[_ngcontent-ng-c865581601] {
+    background: #00cfff;
+    margin: 0 .5rem 1rem 0;
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: #163951;
+}
+
+
+hr[_ngcontent-ng-c865581601] {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    background-color: #03657b73;
+}
+
+
+.item[_ngcontent-ng-c865581601] {
+    margin-left: 3rem;
+}
+
+a[_ngcontent-ng-c865581601] {
+    color: #fff;
+}
+
+
+
+
+.eye-icon[_ngcontent-ng-c169562219] {
+    color: #84929f !important;
+    z-index: 100;
+    cursor: pointer;
+    pointer-events: initial !important;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
 .fa {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -27,7 +508,12 @@
 }
 
 
+.fa:before {
+    content: var(--fa);
+}
+
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
 
